@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.button{
+ margin: auto;
+ padding: 20px;
+ display: flexbox;
+ align-items: center;
+ justify-content: center;
+ border: 2px solid black;
+ background-color: yellow;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+.button0{
+    width: 100px;
+    margin-top: 10px;
+
+}
+
+.button1{
+    margin-top: 10px;
+   
+}
+
+.pad-left{
+    margin-left: 523px;
+}
+
+.ans-btn{
+    width: 174px;
+    height: 7px;
+    text-align: end;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    
+}
+
+.new-btn{
+    padding-left: 15px;
+}
